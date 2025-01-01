@@ -13,7 +13,7 @@ const AboutUs = () => {
                             About Us
                         </h2>
                         <p className="text-lg text-black font-medium">
-                        Welcome to Meri Dukan, your ultimate destination for premium products at unbeatable prices. We pride ourselves on offering a seamless and enjoyable shopping experience, backed by exceptional customer service. Our mission is to make online shopping simple, convenient, and hassle-free, ensuring that you find exactly what you’re looking for with ease and satisfaction. Whether you're browsing for everyday essentials or something special, we are here to provide you with the best in quality and service. Shop with us today and experience the difference!                        </p>
+                        Welcome to Meri Dukan, your ultimate destination for premium products at unbeatable prices. We pride ourselves on offering a seamless and enjoyable shopping experience backed by exceptional customer service. Our mission is to make online shopping simple convenient and hassle-free ensuring that you find exactly what you are looking for with ease and satisfaction. Whether you re browsing for everyday essentials or something special we are here to provide you with the best in quality and service. Shop with us today and experience the difference!                        </p>
                     </div>
 
                     {/* Right Section - Image */}
